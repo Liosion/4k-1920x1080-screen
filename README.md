@@ -9,3 +9,5 @@ git clone https://github.com/Liosion/4k-1920x1080-screen</br>
 cd /4k-1920x1080-screen</br>
 chmod +x resolution.sh</br>
 sudo ./resolution.sh</br>
+
+<img a harf=http://s6.picofile.com/file/8379793684/kali.jpg></img>
